@@ -1,0 +1,13 @@
+name: PTC
+description: Public Themepark Core
+version: 0.0.1
+main: PTC.Core
+commands:
+   bc:
+      description: Broadcast a message
+   fly:
+      description: Fly to the moon and back
+   gm:
+      description: Set your own gamemode
+   speed:
+      description: Set your fly / walk speed.

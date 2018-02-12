@@ -9,6 +9,7 @@ import org.bukkit.entity.Player;
 
 public class FlyCommand implements CommandExecutor {
 
+
     public boolean onCommand(CommandSender sender, Command command, String s, String[] args) {
         if(sender instanceof Player){
             Player p = (Player) sender;

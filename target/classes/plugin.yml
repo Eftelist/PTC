@@ -11,3 +11,11 @@ commands:
       description: Set your own gamemode
    speed:
       description: Set your fly / walk speed.
+   ban:
+      descirption: Ban EendjeJob
+   atrcast:
+      description: Hoihoi
+   pcanima:
+      description: test
+   unban:
+      description:  Unban EendjeJob

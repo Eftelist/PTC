@@ -1,9 +1,6 @@
 package PTC.Managers
 
-import PTC.Commands.BroadcastCommand
-import PTC.Commands.FlyCommand
-import PTC.Commands.GamemodeCommand
-import PTC.Commands.SpeedCommand
+import PTC.Commands.*
 import PTC.Core
 
 class CommandManager {
@@ -17,5 +14,9 @@ class CommandManager {
         core?.getCommand("gm")?.executor = GamemodeCommand()
         core?.getCommand("fly")?.executor = FlyCommand()
         core?.getCommand("speed")?.executor = SpeedCommand()
+        core?.getCommand("ban")?.executor = BanCommand()
+        core?.getCommand("atrcast")?.executor = ATRBroadcast()
+        core?.getCommand("pcanima")?.executor = AnimationCommand()
+        core?.getCommand("unban")?.executor = UnbanCommand()
     }
 }

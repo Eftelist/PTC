@@ -1,7 +1,6 @@
 package PTC.Managers;
 
 import PTC.Objects.Shop;
-import PTC.Shops.DeVerleiding.DeVerleiding;
 import org.bukkit.entity.ArmorStand;
 
 import java.util.ArrayList;
@@ -13,7 +12,7 @@ public class ShopManager {
     public static ArrayList<String> init = new ArrayList<String>();
 
     public ShopManager(){
-        shops.add(new DeVerleiding());
+        // TODO => Add shops
     }
 
     public void uninstall(){

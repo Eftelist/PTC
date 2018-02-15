@@ -2,50 +2,89 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/main/kotlin/PTC/Commands/BroadcastCommand.kt" line="14" />
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java" line="28" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java" line="27" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf2dad38-2d45-4a92-abd2-abdf3b9ab001" name="Default" comment="Kotlin update">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nl_michel_menu_1_1_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/H0ax/H0ax.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/H0ax/src/BodyPart.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/H0ax/src/Parser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/H0ax/src/Point.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Listener/ShopListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Objects/Cuboid.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Objects/Medewerker.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Objects/Shop.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Objects/Skin.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Objects/WinkelItem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Objects/WinkelItemType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/DeVerleiding.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/JorisZwaard.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Utils/ArmorStandAnimator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Utils/ArmorStandUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/PTC/Utils/WinkelUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/ATRBroadcast.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/AnimationCommand.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/BanCommand.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/PoiCommand.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/UnbanCommand.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Listener/PlayerPreLoginListener.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Listener/PoiListener.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Systems/Bans/Bans.kt" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/PTC.iml" afterPath="$PROJECT_DIR$/PTC.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/FlyCommand.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/FlyCommand.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/SpeedCommand.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/SpeedCommand.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PTC/Core.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Core.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PTC/Helpers/Messages.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Helpers/Messages.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PTC/Helpers/Permissions.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Helpers/Permissions.kt" />
+      <change beforePath="$PROJECT_DIR$/H0ax/H0ax.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/H0ax/src/BodyPart.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/H0ax/src/Parser.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/H0ax/src/Point.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/H0ax/BodyPart.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/H0ax/Parser.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/H0ax/Point.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java" afterPath="$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTC/Objects/Medewerker.java" afterPath="$PROJECT_DIR$/src/main/java/PTC/Objects/Medewerker.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/DeVerleiding.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/JorisZwaard.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTC/Utils/ArmorStandAnimator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PTC/Utils/WinkelUtil.java" afterPath="$PROJECT_DIR$/src/main/java/PTC/Utils/WinkelUtil.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/AnimationCommand.kt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/PTC/Managers/CommandManager.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/PTC/Managers/CommandManager.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" />
+      <change beforePath="$PROJECT_DIR$/target/PTC-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/ASTUpdater.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/ATRBroadcast.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/ATRBroadcast.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/AnimationCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/AnimationCommand.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/BanCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/BanCommand.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/BroadcastCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/BroadcastCommand.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/FlyCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/FlyCommand.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/GamemodeCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/GamemodeCommand.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/PoiCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/SpeedCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/SpeedCommand.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Commands/UnbanCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Core$Companion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Core.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Core.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Helpers/Messages.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Helpers/Messages.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Helpers/Permissions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Helpers/Permissions.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Listener/PlayerPreLoginListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Listener/PoiListener$PoiMenu$Companion$open$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Listener/PoiListener$PoiMenu$Companion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Listener/PoiListener$PoiMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Listener/PoiListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Listener/ShopListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Managers/CommandManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Managers/CommandManager.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Managers/ShopManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Objects/Cuboid$CuboidIterator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Objects/Cuboid.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Objects/Medewerker.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Objects/Shop.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Objects/Skin.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Objects/WinkelItem.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Objects/WinkelItemType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Shops/DeVerleiding/DeVerleiding.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Shops/DeVerleiding/JorisZwaard.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Systems/Bans/Bans$Companion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Systems/Bans/Bans.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Utils/ArmorStandAnimator$Frame.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Utils/ArmorStandAnimator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Utils/ArmorStandAnimator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Utils/ArmorStandUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PTC/Utils/WinkelUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TrackedRides/TrackedRidesAPI.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TrackedRides/TrackedRidesAPI.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TrackedRides/Utils/BlockFaceHelper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TrackedRides/Utils/BlockFaceHelper.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TrackedRides/Utils/BlockFaceUtil$Companion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TrackedRides/Utils/BlockFaceUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TrackedRides/Utils/BlockFaceUtil.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/spline_converter_test.points" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,126 +97,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ShopManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#249#261#0" expanded="true" />
-                <element signature="e#320#326#0" expanded="true" />
-                <element signature="e#386#394#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeVerleiding.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/DeVerleiding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="25" column="66" lean-forward="false" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#490#502#0" expanded="true" />
-                <element signature="e#567#579#0" expanded="true" />
-                <element signature="e#1046#1047#0" expanded="true" />
-                <element signature="e#1078#1079#0" expanded="true" />
-                <element signature="e#1111#1112#0" expanded="true" />
-                <element signature="e#1145#1146#0" expanded="true" />
-                <element signature="e#1192#1193#0" expanded="true" />
-                <element signature="e#1225#1226#0" expanded="true" />
-                <element signature="e#1278#1279#0" expanded="true" />
-                <element signature="e#1317#1318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Core.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Core.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShopListener.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Listener/ShopListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="50" column="55" lean-forward="false" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#559#590#0" expanded="true" />
-                <element signature="e#2098#2110#0" expanded="true" />
-                <element signature="e#2459#2471#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WinkelUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Utils/WinkelUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArmorStandAnimator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Utils/ArmorStandAnimator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="131" column="55" lean-forward="false" selection-start-line="131" selection-start-column="55" selection-end-line="131" selection-end-column="55" />
+            <state relative-caret-position="119">
+              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JorisZwaard.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/JorisZwaard.java">
+      <file leaf-file-name="ShopManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="85" lean-forward="false" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-                <element signature="e#778#779#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1007#1008#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Medewerker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Objects/Medewerker.java">
+      <file leaf-file-name="CommandManager.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Managers/CommandManager.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bans.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Systems/Bans/Bans.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PoiListener.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Listener/PoiListener.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerPreLoginListener.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Listener/PlayerPreLoginListener.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -185,7 +162,7 @@
       <file leaf-file-name="ArmorStandUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Utils/ArmorStandUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
+            <state relative-caret-position="459">
               <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -204,21 +181,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WinkelItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Objects/WinkelItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WinkelItemType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Objects/WinkelItemType.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WinkelItem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Objects/WinkelItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -267,7 +244,6 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/PTC/Listener/PlayerPreLoginListener.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/PTC/Systems/Bans/Bans.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/BanCommand.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/PTC/Managers/CommandManager.kt" />
         <option value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
         <option value="$PROJECT_DIR$/src/main/kotlin/PTC/Commands/UnbanCommand.kt" />
         <option value="$PROJECT_DIR$/H0ax/src/Point.java" />
@@ -289,15 +265,16 @@
         <option value="$PROJECT_DIR$/src/main/java/PTC/Utii/ArmorStandUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTC/Listener/WinkelUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PTC/Utils/WinkelUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTC/Objects/WinkelItem.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PTC/Objects/Medewerker.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/DeVerleiding.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/JorisZwaard.java" />
         <option value="$PROJECT_DIR$/src/main/java/PTC/Utils/ArmorStandUtil.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/PTC/Core.kt" />
         <option value="$PROJECT_DIR$/src/main/java/PTC/Listener/ShopListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PTC/Objects/Medewerker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PTC/Utils/WinkelUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/PTC/Managers/CommandManager.kt" />
       </list>
     </option>
   </component>
@@ -330,56 +307,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
-              <item name="H0ax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
-              <item name="H0ax" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="PTC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -387,8 +352,8 @@
               <item name="Listener" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -396,8 +361,8 @@
               <item name="Managers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -405,17 +370,8 @@
               <item name="Objects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
-              <item name="DeVerleiding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -423,23 +379,23 @@
               <item name="Utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="PTC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
@@ -447,8 +403,8 @@
               <item name="Commands" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
@@ -456,8 +412,8 @@
               <item name="Helpers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
@@ -465,8 +421,8 @@
               <item name="Listener" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
@@ -474,46 +430,19 @@
               <item name="Managers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
+              <item name="PTCLITE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PTCLITE" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="PTC" type="462c0819:PsiDirectoryNode" />
               <item name="Bans" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="TrackedRides" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="TrackedRides" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PTC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -521,7 +450,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/json-20180130.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -531,15 +460,15 @@
       <recent name="PTC.Utils" />
       <recent name="PTC.Objects" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Eftelist\Desktop\PTC\src\main\java" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="PTC.Listener" />
       <recent name="PTC.Shops.DeVerleiding" />
       <recent name="PTC.Utii" />
       <recent name="PTC.Shops" />
       <recent name="PTC.Objects" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Eftelist\Desktop\PTC\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -725,11 +654,12 @@
       <workItem from="1518587757707" duration="8829000" />
       <workItem from="1518604633941" duration="7764000" />
       <workItem from="1518626796909" duration="7596000" />
+      <workItem from="1518690197265" duration="194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48311000" />
+    <option name="totallyTimeSpent" value="48505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1400" height="1000" extended-state="0" />
@@ -741,26 +671,26 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35016835" sideWeight="0.5216763" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35016835" sideWeight="0.4783237" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35016835" sideWeight="0.4783237" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3468208" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.49710983" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.48958334" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -836,9 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <marker date="1518532300147" expanded="true" signature="1713:1719" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,9 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="26" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#22#228#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,9 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#22#228#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,9 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding>
-            <marker date="1518539887576" expanded="true" signature="1169:1175" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -902,7 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,9 +843,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-          <folding>
-            <marker date="1518532723312" expanded="true" signature="1106:1112" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -936,25 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Systems/Bans/Bans.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="e#26#255#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Managers/CommandManager.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="50" lean-forward="false" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -988,10 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
           <caret line="98" column="34" lean-forward="false" selection-start-line="98" selection-start-column="34" selection-end-line="98" selection-end-column="34" />
-          <folding>
-            <element signature="e#49#50#0" expanded="false" />
-            <element signature="e#73#74#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -999,11 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="75" column="46" lean-forward="false" selection-start-line="75" selection-start-column="46" selection-end-line="75" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#5262#5263#0" expanded="false" />
-            <element signature="e#5299#5300#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1011,12 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-          <folding>
-            <element signature="e#401#402#0" expanded="false" />
-            <element signature="e#429#430#0" expanded="false" />
-            <element signature="e#467#468#0" expanded="false" />
-            <element signature="e#495#496#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1028,45 +908,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Listener/PlayerPreLoginListener.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Commands/PoiCommand.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Managers/ShopManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Objects/Winkel.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Objects/Medewerker.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/DeVerleiding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="25" column="66" lean-forward="false" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/JorisZwaard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="85" lean-forward="false" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Commands/AnimationCommand.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Core.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Listener/PoiListener.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Listener/ShopListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="850">
+          <caret line="50" column="55" lean-forward="false" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
           <folding>
-            <element signature="e#22#703#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Managers/ShopManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Objects/Cuboid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="17">
+          <caret line="145" column="5" lean-forward="false" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Objects/Medewerker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1075,59 +979,6 @@
         <state relative-caret-position="170">
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Objects/Winkel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Objects/Cuboid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
-          <caret line="145" column="5" lean-forward="false" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2063#2064#0" expanded="false" />
-            <element signature="e#2095#2096#0" expanded="false" />
-            <element signature="e#2122#2123#0" expanded="false" />
-            <element signature="e#2154#2155#0" expanded="false" />
-            <element signature="e#2181#2182#0" expanded="false" />
-            <element signature="e#2213#2214#0" expanded="false" />
-            <element signature="e#2240#2241#0" expanded="false" />
-            <element signature="e#2272#2273#0" expanded="false" />
-            <element signature="e#2299#2300#0" expanded="false" />
-            <element signature="e#2331#2332#0" expanded="false" />
-            <element signature="e#2358#2359#0" expanded="false" />
-            <element signature="e#2390#2391#0" expanded="false" />
-            <element signature="e#2420#2421#0" expanded="false" />
-            <element signature="e#2449#2450#0" expanded="false" />
-            <element signature="e#2485#2486#0" expanded="false" />
-            <element signature="e#2517#2518#0" expanded="false" />
-            <element signature="e#2553#2554#0" expanded="false" />
-            <element signature="e#2585#2586#0" expanded="false" />
-            <element signature="e#2621#2622#0" expanded="false" />
-            <element signature="e#2653#2654#0" expanded="false" />
-            <element signature="e#2689#2690#0" expanded="false" />
-            <element signature="e#2721#2722#0" expanded="false" />
-            <element signature="e#2757#2758#0" expanded="false" />
-            <element signature="e#2789#2790#0" expanded="false" />
-            <element signature="e#2825#2826#0" expanded="false" />
-            <element signature="e#2857#2858#0" expanded="false" />
-            <element signature="e#2897#2898#0" expanded="false" />
-            <element signature="e#2927#2928#0" expanded="false" />
-            <element signature="e#2968#2969#0" expanded="false" />
-            <element signature="e#3060#3061#0" expanded="false" />
-            <element signature="e#3905#3921#0" expanded="false" />
-            <element signature="e#5072#5073#0" expanded="false" />
-            <element signature="e#5106#5107#0" expanded="false" />
-            <element signature="e#5142#5143#0" expanded="false" />
-            <element signature="e#5208#5209#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1147,26 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Objects/Medewerker.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Utils/WinkelUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Objects/WinkelItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1175,69 +1006,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Objects/Medewerker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Managers/ShopManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#249#261#0" expanded="true" />
-            <element signature="e#320#326#0" expanded="true" />
-            <element signature="e#386#394#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/DeVerleiding.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Utils/WinkelUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="25" column="66" lean-forward="false" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#490#502#0" expanded="true" />
-            <element signature="e#567#579#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1078#1079#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1192#1193#0" expanded="true" />
-            <element signature="e#1225#1226#0" expanded="true" />
-            <element signature="e#1278#1279#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Shops/DeVerleiding/JorisZwaard.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Utils/ArmorStandUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="85" lean-forward="false" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
+        <state relative-caret-position="459">
+          <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1250,34 +1042,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Utils/ArmorStandUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Core.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Commands/AnimationCommand.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PTC/Listener/ShopListener.java">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Managers/CommandManager.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="50" column="55" lean-forward="false" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#559#590#0" expanded="true" />
-            <element signature="e#2098#2110#0" expanded="true" />
-            <element signature="e#2459#2471#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Systems/Bans/Bans.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Listener/PoiListener.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/PTC/Listener/PlayerPreLoginListener.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

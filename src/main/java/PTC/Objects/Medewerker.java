@@ -1,6 +1,5 @@
 package PTC.Objects;
 
-import PTC.Shops.DeVerleiding.DeVerleiding;
 import org.bukkit.entity.ArmorStand;
 
 public class Medewerker {
@@ -8,7 +7,7 @@ public class Medewerker {
     private ArmorStand stand;
 
 
-    public Medewerker(ArmorStand stand, String job, DeVerleiding deVerleiding) {
+    public Medewerker(ArmorStand stand, String job, Shop shop) {
         this.stand = stand;
     }
 

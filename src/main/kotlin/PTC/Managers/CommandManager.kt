@@ -16,7 +16,6 @@ class CommandManager {
         core?.getCommand("speed")?.executor = SpeedCommand()
         core?.getCommand("ban")?.executor = BanCommand()
         core?.getCommand("atrcast")?.executor = ATRBroadcast()
-        core?.getCommand("pcanima")?.executor = AnimationCommand()
         core?.getCommand("unban")?.executor = UnbanCommand()
     }
 }
